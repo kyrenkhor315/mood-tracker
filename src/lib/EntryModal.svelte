@@ -106,8 +106,13 @@
         emoji = emojiList.best;
     }}
 />
-<label class="btn btn-outline-sucess" for="best">Best</label>
+<label class="btn btn-outline-success" for="best">Best</label>
    </div>
+</div>
+<!-- Comments -->
+<div class="form-floating">
+    <textarea class="form-control" id="comment" />
+    <label for="commentTextarea">Comments</label>
 </div>
    		 </div>
 
